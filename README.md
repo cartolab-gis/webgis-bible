@@ -1,2 +1,2 @@
-# gis-bible
-open source documentation of GIS resources (mostly relating to the web)
+# webgis-bible
+open source documentation of resources relating to mapping and GIS on the web!
